@@ -1,0 +1,33 @@
+/******************************************
+/* LAYOUT
+/*******************************************/
+body{
+  box-sizing: border-box; 
+
+}
+
+#main{
+  margin: 5% auto;
+  width: 50%;
+  text-align: center;
+}
+
+img{
+  display: block;
+  margin: 0 auto;
+  height: 200px;
+}
+
+
+/* button {
+  text-align: center;
+}
+ */
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+   
+
