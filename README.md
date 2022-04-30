@@ -1,4 +1,4 @@
-# Bobs Burgers Character Randomizer
+# 🍔 Bobs Burgers Character Randomizer
  
 <!-- <p align="center">
 <img src="">
